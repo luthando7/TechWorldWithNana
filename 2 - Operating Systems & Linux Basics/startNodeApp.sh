@@ -25,3 +25,10 @@ npm install
 
 # run the app
 node server.js
+
+# show app is running
+ps aux | grep node | grep -v grep
+
+# sho that app is running on port 3000
+netstat -ltnp | grep :3000
+
