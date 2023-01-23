@@ -3,5 +3,6 @@
 build/
 idea/
 DS_STORE
+.DS_Store
 out/
 target/
